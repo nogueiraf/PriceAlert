@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PriceAlert.iml" filepath="$PROJECT_DIR$/.idea/PriceAlert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web_blog-master/.idea/web_blog-master.iml" filepath="$PROJECT_DIR$/../web_blog-master/.idea/web_blog-master.iml" />
+    </modules>
+  </component>
+</project>
