@@ -4,6 +4,7 @@ from src.models.users.views import user_blueprint
 
 app = Flask(__name__)
 app.config.from_object('config')
+app.secret_key = '13'
 
 
 @app.before_first_request
